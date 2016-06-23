@@ -2,7 +2,7 @@
 
 var util = require('util'),
     os = require('os'),
-    memwatch = require('memwatch'),
+    memwatch = require('memwatch-next'),
     leaks  = [],
     memStats = [];
 
