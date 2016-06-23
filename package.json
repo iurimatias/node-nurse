@@ -12,7 +12,7 @@
     "test": "./node_modules/.bin/mocha"
   },
   "dependencies": {
-    "memwatch": "~0.2.2"
+    "memwatch-next": "~0.2.2"
   },
   "devDependencies": {
     "mocha": "~1.13.0"
